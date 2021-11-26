@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome Andjela and Jerry!
 The (TU Delft) DCC guides aims to provide a low threshold and comprehensive entrypoint to get you started with Research Computing, Research Data and Research Software at TU Delft. 
 
 ```{note}
